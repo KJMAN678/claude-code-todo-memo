@@ -1,0 +1,11 @@
+{
+  "name": "todo-memo-local",
+  "owner": { "name": "koji" },
+  "plugins": [
+    {
+      "name": "todo-memo",
+      "source": "./",
+      "description": "/memo でモデルを動かさずに TODO メモを保存し、プロンプト上の帯で確認する"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "todo-memo",
+  "version": "0.1.0",
+  "description": "/memo でモデルを動かさずに TODO メモを保存し、プロンプト上の帯で確認する",
+  "types": "./types/index.d.ts"
+}
