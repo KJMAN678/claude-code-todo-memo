@@ -31,7 +31,7 @@ Claude Code の mod。`/memo` で明日やることを**モデルを動かさず
 ターミナルの場合は、次のとおり。
 
 ```text
-/plugin marketplace add <このフォルダの絶対パス>
+/plugin marketplace add https://github.com/KJMAN678/claude-code-todo-memo
 /plugin install todo-memo@todo-memo-local
 ```
 
