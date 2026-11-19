@@ -20,6 +20,10 @@ Claude Code の mod。`/memo` で明日やることを**モデルを動かさず
 - 帯が表示されるのは、ターミナル、デスクトップ、モバイル。VS Code では表示されない（`/memo` での一覧は使える）。
 - `done ...` や `clear` で始まる文は、メモではなくサブコマンドとして扱われる。
 
+<img src="images/input-prompt.png" width=400px>
+
+<img src="images/display-memo.png" width=400px>
+
 ## インストール（ローカル marketplace）
 
 このフォルダ自体が marketplace になっている（[.claude-plugin/marketplace.json](.claude-plugin/marketplace.json)）。
